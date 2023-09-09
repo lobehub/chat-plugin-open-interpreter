@@ -1,10 +1,10 @@
 {
-  "name": "plugin-identifier",
+  "name": "open-interpreter",
   "version": "1.0.0",
   "private": true,
   "description": "This is the plugin template for LobeChat plugin development",
-  "homepage": "https://github.com/lobehub/chat-plugin-template",
-  "repository": "https://github.com/lobehub/chat-plugin-template.git",
+  "homepage": "https://github.com/lobehub/chat-plugin-open-interpreter",
+  "repository": "https://github.com/lobehub/chat-plugin-open-interpreter.git",
   "scripts": {
     "build": "next build",
     "ci": "npm run lint && npm run type-check",

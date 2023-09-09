@@ -23,7 +23,7 @@
     }
   ],
   "gateway": "http://localhost:3400/api/gateway",
-  "identifier": "plugin-identifier",
+  "identifier": "open-interpreter",
   "ui": {
     "url": "http://localhost:3400",
     "height": 200
