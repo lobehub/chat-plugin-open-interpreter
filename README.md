@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<img height="120" src="https://registry.npmmirror.com/@lobehub/assets-emoji/1.3.0/files/assets/puzzle-piece.webp">
-<img height="120" src="https://gw.alipayobjects.com/zos/kitchen/qJ3l3EPsdW/split.svg">
+<img height="120" src="https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-emoji/assets/puzzle-piece.webp">
+<img height="120" src="https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-logo/assets/split.svg">
 <div style="display: inline-block;width:100px;height:100px;margin-bottom:10px;margin-left: 10px;background: black;border-radius: 50%"></div>
 
 <h1>● Open Interpreter<br/><sup>LobeChat Plugin</sup></h1>
